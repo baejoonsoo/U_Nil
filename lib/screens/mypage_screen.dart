@@ -97,7 +97,7 @@ class MyPageScreen extends StatelessWidget {
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
                                 image: NetworkImage(
-                                  'https://img.hankyung.com/photo/202212/03.32138436.1.jpg',
+                                  'https://mblogthumb-phinf.pstatic.net/MjAyMzAxMTJfMjkz/MDAxNjczNDg5MzQ0NzQ3.WGkCwO9BHIx-NGJ0MHc5YSEktwUI4F7PnP5SpPAaZC8g.Btz5urrbLRxXQECaulfP9ms4Q79cE85JURFwbZeTBJAg.JPEG.loveydeeply/IMG＿6864.JPG?type=w800',
                                 ),
                               ),
                             ),
